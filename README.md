@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mamtapatilkinge
 - 👀 I’m interested in ...Data Science 
-- 🌱 I’m currently learning ...Data Analytics 
+- 🌱 I have currently learn ...Data Analytics 
 -  Currently Practicing SQL,Power BI.
 -
 
